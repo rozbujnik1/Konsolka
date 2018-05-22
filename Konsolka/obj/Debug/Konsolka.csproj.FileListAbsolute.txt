@@ -1,0 +1,7 @@
+D:\studia\programy_c\Konsolka\Konsolka\bin\Debug\Konsolka.exe.config
+D:\studia\programy_c\Konsolka\Konsolka\bin\Debug\Konsolka.exe
+D:\studia\programy_c\Konsolka\Konsolka\bin\Debug\Konsolka.pdb
+D:\studia\programy_c\Konsolka\Konsolka\obj\Debug\Konsolka.csprojResolveAssemblyReference.cache
+D:\studia\programy_c\Konsolka\Konsolka\obj\Debug\Konsolka.csproj.CoreCompileInputs.cache
+D:\studia\programy_c\Konsolka\Konsolka\obj\Debug\Konsolka.exe
+D:\studia\programy_c\Konsolka\Konsolka\obj\Debug\Konsolka.pdb
